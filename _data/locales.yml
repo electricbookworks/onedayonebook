@@ -378,7 +378,32 @@ en:
 #   local-name: ""
 # nr:
 #   iso-name: "Southern Ndebele"
-#   local-name: ""
+#   local-name: "isiNdebele"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 # oc:
 #   iso-name: "Occitan"
 #   local-name: ""
@@ -471,7 +496,32 @@ en:
 #   local-name: ""
 # st:
 #   iso-name: "Southern Sotho"
-#   local-name: ""
+#   local-name: "Sesotho"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 # es:
 #   iso-name: "Spanish"
 #   local-name: "Español"
@@ -483,7 +533,32 @@ en:
 #   local-name: ""
 # ss:
 #   iso-name: "Swati"
-#   local-name: ""
+#   local-name: "siSwati"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 # sv:
 #   iso-name: "Swedish"
 #   local-name: ""
@@ -513,7 +588,32 @@ en:
 #   local-name: ""
 # tn:
 #   iso-name: "Tswana"
-#   local-name: ""
+#   local-name: "Setswana"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 # to:
 #   iso-name: "Tonga (Tonga Islands)"
 #   local-name: ""
@@ -522,7 +622,32 @@ en:
 #   local-name: ""
 # ts:
 #   iso-name: "Tsonga"
-#   local-name: ""
+#   local-name: "Xitsonga"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 # tt:
 #   iso-name: "Tatar"
 #   local-name: ""
@@ -546,7 +671,32 @@ en:
 #   local-name: ""
 # ve:
 #   iso-name: "Venda"
-#   local-name: ""
+#   local-name: "Tshivenda"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 # vi:
 #   iso-name: "Vietnamese"
 #   local-name: ""
@@ -567,7 +717,32 @@ en:
 #   local-name: ""
 # xh:
 #   iso-name: "Xhosa"
-#   local-name: ""
+#   local-name: "isiXhosa"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 # yi:
 #   iso-name: "Yiddish"
 #   local-name: ""
@@ -579,7 +754,32 @@ en:
 #   local-name: ""
 # zu:
 #   iso-name: "Zulu"
-#   local-name: ""
+#   local-name: "isiZulu"
+#   contact:
+#     label:
+#       email: "Email address"
+#       message: "Message"
+#       name: "Name"
+#     placeholder:
+#       email: "you@example.com"
+#       message: "Message"
+#       name: "Name"
+#   excerpt:
+#     more: "More"
+#   footer:
+#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+#   input:
+#     send: "Send"
+#     submit: "Submit"
+#   book:
+#     written-by: "Written by*"
+#     illustrated-by: "Illustrated by*"
+#     designed-by: "Designed by*"
+#     edited-by: "Edited by*"
+#     originally-in: "Originally written in*"
+#     supported-by: "Supported by*"
+#     download-pdf: "Download PDF*"
+#     source-files: "Source files*"
 nso:
   iso-name: "Sepedi/Nothern Sotho"
   local-name: "Sepedi"
