@@ -8,7 +8,7 @@ contributors:
   illustrator: "Elizabeth Pulles"
   designer: "Leona Ingram, Karma Bosman and Riaan Coetzee"
   editor: "Katherine Hofmeyr"
-  publisher: "Indwe Publishers"
+  publisher: "Indwa Publishers"
   other: ""
 original-language: "IsiZulu"
 price:
