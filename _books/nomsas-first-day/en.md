@@ -35,8 +35,3 @@ images:
 ---
 
 {% include book-page.html %}
-
-
-
-
-
