@@ -8,7 +8,7 @@ contributors:
   illustrator: "Jess Jardim-Wedepohl"
   designer: "Jess Jardim-Wedepohl"
   editor: "Jocelyn Newmarch"
-  publisher: "Indwe Publishers"
+  publisher: "Indwa Publishers"
   other: ""
 original-language: "isiZulu"
 price:

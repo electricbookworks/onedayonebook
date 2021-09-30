@@ -8,7 +8,7 @@ contributors:
   illustrator: "Joseph Somwe"
   designer: "Caitlin Sloane"
   editor: "Alison Ziki"
-  publisher: "Indwe Publishers"
+  publisher: "Indwa Publishers"
   other: ""
 original-language: "isiZulu"
 price:
@@ -35,8 +35,3 @@ images:
 ---
 
 {% include book-page.html %}
-
-
-
-
-

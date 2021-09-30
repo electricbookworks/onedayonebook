@@ -16,7 +16,7 @@ price:
   en: ""
 links:
   source-files: "https://www.dropbox.com/sh/xhycnmx0tb5hpg7/AAAg8HSSSN-DFPrsTnhLeDtVa?dl=0"
-  pdf-ebook: "https://www.dropbox.com/s/yctsqhuiljdubek/fish-finds-a-friend_nso_20181016.pdf?dl=1"
+  pdf-ebook: "https://www.dropbox.com/s/yctsqhuiljdubek/fish-finds-a-friend_nso_20181016.pdf?dl=0"
 images:
   cover: "fish-finds-a-friend_nso_20181004_cover.jpg"
   title-page: "fish-finds-a-friend_nso_20181004_page.jpg"

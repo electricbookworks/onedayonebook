@@ -620,34 +620,34 @@ ss:
 # tr:
 #   iso-name: "Turkish"
 #   local-name: ""
-# ts:
-#   iso-name: "Tsonga"
-#   local-name: "Xitsonga"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "Written by*"
-#     illustrated-by: "Illustrated by*"
-#     designed-by: "Designed by*"
-#     edited-by: "Edited by*"
-#     originally-in: "Originally written in*"
-#     supported-by: "Supported by*"
-#     download-pdf: "Download PDF*"
-#     source-files: "Source files*"
+ts:
+  iso-name: "Tsonga"
+  local-name: "Xitsonga"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "Written by*"
+    illustrated-by: "Illustrated by*"
+    designed-by: "Designed by*"
+    edited-by: "Edited by*"
+    originally-in: "Originally written in*"
+    supported-by: "Supported by*"
+    download-pdf: "Download PDF*"
+    source-files: "Source files*"
 # tt:
 #   iso-name: "Tatar"
 #   local-name: ""
@@ -669,34 +669,34 @@ ss:
 # uz:
 #   iso-name: "Uzbek"
 #   local-name: ""
-# ve:
-#   iso-name: "Venda"
-#   local-name: "Tshivenda"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "Written by*"
-#     illustrated-by: "Illustrated by*"
-#     designed-by: "Designed by*"
-#     edited-by: "Edited by*"
-#     originally-in: "Originally written in*"
-#     supported-by: "Supported by*"
-#     download-pdf: "Download PDF*"
-#     source-files: "Source files*"
+ve:
+  iso-name: "Venda"
+  local-name: "Tshivenda"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "Written by*"
+    illustrated-by: "Illustrated by*"
+    designed-by: "Designed by*"
+    edited-by: "Edited by*"
+    originally-in: "Originally written in*"
+    supported-by: "Supported by*"
+    download-pdf: "Download PDF*"
+    source-files: "Source files*"
 # vi:
 #   iso-name: "Vietnamese"
 #   local-name: ""
@@ -752,34 +752,34 @@ ss:
 # za:
 #   iso-name: "Zhuang, Chuang"
 #   local-name: ""
-# zu:
-#   iso-name: "Zulu"
-#   local-name: "isiZulu"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "Written by*"
-#     illustrated-by: "Illustrated by*"
-#     designed-by: "Designed by*"
-#     edited-by: "Edited by*"
-#     originally-in: "Originally written in*"
-#     supported-by: "Supported by*"
-#     download-pdf: "Download PDF*"
-#     source-files: "Source files*"
+zu:
+  iso-name: "Zulu"
+  local-name: "isiZulu"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "Written by*"
+    illustrated-by: "Illustrated by*"
+    designed-by: "Designed by*"
+    edited-by: "Edited by*"
+    originally-in: "Originally written in*"
+    supported-by: "Supported by*"
+    download-pdf: "Download PDF*"
+    source-files: "Source files*"
 nso:
   iso-name: "Sepedi/Nothern Sotho"
   local-name: "Sepedi"
