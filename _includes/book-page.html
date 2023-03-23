@@ -6,7 +6,7 @@
 
 	{% comment %}Subheadline{% endcomment %}
 	{% if page.original-language and page.original-language != "" %}
-		<p class="subheadline">{{ locale.book.originally-in }} {{ page.original-language }}</p>
+		<p class="subheadline">{{ locale.book.originally-in }}{{ page.original-language }}</p>
 	{% endif %}
 
 	{% comment %}Publisher and logo, if any{% endcomment %}
@@ -55,16 +55,16 @@
 	{% comment %}Contributors{% endcomment %}
 	<ul>
 		{% if page.contributors.writer and page.contributors.writer != "" %}
-			<li>{{ locale.book.written-by }} {{ page.contributors.writer }}</li>
+			<li>{{ locale.book.written-by }}{{ page.contributors.writer }}</li>
 		{% endif %}
 		{% if page.contributors.illustrator and page.contributors.illustrator != "" %}
-			<li>{{ locale.book.illustrated-by }} {{ page.contributors.illustrator }}</li>
+			<li>{{ locale.book.illustrated-by }}{{ page.contributors.illustrator }}</li>
 		{% endif %}
 		{% if page.contributors.designer and page.contributors.designer != "" %}
-			<li>{{ locale.book.designed-by }} {{ page.contributors.designer }}</li>
+			<li>{{ locale.book.designed-by }}{{ page.contributors.designer }}</li>
 		{% endif %}
 		{% if page.contributors.editor and page.contributors.editor != "" %}
-			<li>{{ locale.book.edited-by }} {{ page.contributors.editor }}</li>
+			<li>{{ locale.book.edited-by }}{{ page.contributors.editor }}</li>
 		{% endif %}
 	</ul>
 
