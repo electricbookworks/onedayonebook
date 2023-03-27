@@ -18,7 +18,7 @@ links:
   source-files: "https://www.dropbox.com/sh/hug0d441e6rd6tw/AACf70HmQ8KR7YAiDZyMf_50a?dl=0"
   pdf-ebook: "https://www.dropbox.com/s/x2bwmqte04bxv0l/madam-hats_interior_st_20230310.pdf?dl=0"
 images:
-  cover: "madam-hats_interior_st_20230317_cover.jpg"
+  cover: "madam-hats_st_20230310_cover.jpg"
   title-page: "madam-hats_interior_st_20230317_page1.jpg"
   dps-1: "madam-hats_interior_st_20230317_page2.jpg"
   dps-2: "madam-hats_interior_st_20230317_page3.jpg"
