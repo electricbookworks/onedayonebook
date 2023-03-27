@@ -16,7 +16,7 @@ price:
   en: ""
 links:
   source-files: "https://www.dropbox.com/sh/bejmhd5hiola9wh/AAC8UJoXf-trqTSCzqBUErsza?dl=0"
-  pdf-ebook: "https://www.dropbox.com/s/66cvgo74j6vk8vp/langutanis-trick_xh_20230313.pdf?dl=0"
+  pdf-ebook: "https://www.dropbox.com/s/pmevpz1y5v1e5vl/lion-and-warthog_xh_20230313.pdf?dl=0"
 images:
   cover: "lion-and-warthog_xh_20230313_cover.jpg"
   title-page: "lion-and-warthog_interior_xh_20230313_page1.jpg"
