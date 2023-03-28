@@ -18,7 +18,7 @@ links:
   source-files: "https://www.dropbox.com/sh/hug0d441e6rd6tw/AACf70HmQ8KR7YAiDZyMf_50a?dl=0"
   pdf-ebook: "https://www.dropbox.com/s/iiufngzpk58pz3m/madam-hats_xh_20230314.pdf?dl=0"
 images:
-  cover: "madam-hats-cant-find-her-hat_en_RTR_20180725_cover.jpg"
+  cover: "madam-hats_xh_20230314_cover.jpg"
   title-page: "madam-hats_interior_xh_20230314_page1.jpg"
   dps-1: "madam-hats_interior_xh_20230314_page2.jpg"
   dps-2: "madam-hats_interior_xh_20230314_page3.jpg"
