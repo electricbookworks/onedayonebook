@@ -143,12 +143,12 @@ en:
     send: "Send"
     submit: "Submit"
   book:
-    written-by: "Written by"
-    illustrated-by: "Illustrated by"
-    designed-by: "Designed by"
-    edited-by: "Edited by"
-    originally-in: "Originally written in"
-    supported-by: "Supported by"
+    written-by: "Written by "
+    illustrated-by: "Illustrated by "
+    designed-by: "Designed by "
+    edited-by: "Edited by "
+    originally-in: "Originally written in "
+    supported-by: "Supported by "
     download-pdf: "Download PDF"
     source-files: "Source files"
 # eo:
@@ -376,34 +376,34 @@ en:
 # ii:
 #   iso-name: "Nuosu"
 #   local-name: ""
-# nr:
-#   iso-name: "Southern Ndebele"
-#   local-name: "isiNdebele"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "Itlolwe ngu"
-#     illustrated-by: "Iinthombe ngu"
-#     designed-by: "Ihlotjiswe ngu"
-#     edited-by: "Ihlolwe ngu"
-#     originally-in: "Ithome yatlolwa ngu"
-#     supported-by: "Irhelejwe ngu"
-#     download-pdf: "Ithole ku-PDF"
-#     source-files: "Umthombo"
+nr:
+  iso-name: "Southern Ndebele"
+  local-name: "isiNdebele"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "Itlolwe ngu"
+    illustrated-by: "Iinthombe ngu"
+    designed-by: "Ihlotjiswe ngu"
+    edited-by: "Ihlolwe ngu"
+    originally-in: "Ithome yatlolwa ngu"
+    supported-by: "Irhelejwe ngu"
+    download-pdf: "Ithole ku-PDF"
+    source-files: "Umthombo"
 # oc:
 #   iso-name: "Occitan"
 #   local-name: ""
@@ -494,34 +494,34 @@ en:
 # so:
 #   iso-name: "Somali"
 #   local-name: ""
-# st:
-#   iso-name: "Southern Sotho"
-#   local-name: "Sesotho"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "E ngotswe ke"
-#     illustrated-by: "E tshwantshitswe ke"
-#     designed-by: "E entswe ke"
-#     edited-by: "E hlophisitswe ke"
-#     originally-in: "E ngotswe qalong ka"
-#     supported-by: "E tsheheditswe ke"
-#     download-pdf: "Kgwasolla PDF"
-#     source-files: "Faele ya mohlodi"
+st:
+  iso-name: "Southern Sotho"
+  local-name: "Sesotho"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "E ngotswe ke "
+    illustrated-by: "E tshwantshitswe ke "
+    designed-by: "E entswe ke "
+    edited-by: "E hlophisitswe ke "
+    originally-in: "E ngotswe qalong ka "
+    supported-by: "E tsheheditswe ke "
+    download-pdf: "Kgwasolla PDF "
+    source-files: "Faele ya mohlodi "
 # es:
 #   iso-name: "Spanish"
 #   local-name: "Español"
@@ -640,12 +640,12 @@ ts:
     send: "Send"
     submit: "Submit"
   book:
-    written-by: "Yi tsariwile hi"
-    illustrated-by: "Yi dirowiwa hi"
-    designed-by: "Yi khavisiwa hi"
-    edited-by: "Yi hleriwa hi"
-    originally-in: "Ro sungula yi tsariwile hi"
-    supported-by: "Yi seketeriwa hi"
+    written-by: "Yi tsariwile hi "
+    illustrated-by: "Yi dirowiwa hi "
+    designed-by: "Yi khavisiwa hi "
+    edited-by: "Yi hleriwa hi "
+    originally-in: "Ro sungula yi tsariwile hi "
+    supported-by: "Yi seketeriwa hi "
     download-pdf: "Yi kumi hi PDF"
     source-files: "Tifayili ta switirhisiwa"
 # tt:
@@ -689,12 +689,12 @@ ve:
     send: "Send"
     submit: "Submit"
   book:
-    written-by: "Muṅwali ndi"
-    illustrated-by: "Yo olwa nga"
-    designed-by: "Yo dzudzanywa nga"
-    edited-by: "Yo ṱolwa nga"
-    originally-in: "Muṅwali wa mathomo ndi"
-    supported-by: "Yo tikedzwa nga"
+    written-by: "Muṅwali ndi "
+    illustrated-by: "Yo olwa nga "
+    designed-by: "Yo dzudzanywa nga "
+    edited-by: "Yo ṱolwa nga "
+    originally-in: "Muṅwali wa mathomo ndi "
+    supported-by: "Yo tikedzwa nga "
     download-pdf: "Vulani PDF"
     source-files: "Vhubvo ha faela"
 # vi:
@@ -800,12 +800,12 @@ nso:
     send: "Send"
     submit: "Submit"
   book:
-    written-by: "E ngwadilwe ke"
-    illustrated-by: "Diswantšho di dirilwe ke"
-    designed-by: "E rulagantšwe ke"
-    edited-by: "E hlophišitšwe ke"
-    originally-in: "E kgwadilwe la mathomo ka"
-    supported-by: "E thekgilwe ke"
+    written-by: "E ngwadilwe ke "
+    illustrated-by: "Diswantšho di dirilwe ke "
+    designed-by: "E rulagantšwe ke "
+    edited-by: "E hlophišitšwe ke "
+    originally-in: "E kgwadilwe la mathomo ka "
+    supported-by: "E thekgilwe ke "
     download-pdf: "Ntšha PDF"
     source-files: "Faele ya mothopo"
 # tuv:
