@@ -606,12 +606,12 @@ tn:
     send: "Send"
     submit: "Submit"
   book:
-    written-by: "E kwadilwe ke"
-    illustrated-by: "Ditshwantsho di dirilwe ke"
-    designed-by: "E rulagantswe ke"
-    edited-by: "E tlhotlhilwe ke"
-    originally-in: "E simolotswe go kwalwa ka"
-    supported-by: "E tshegeditswe ke"
+    written-by: "E kwadilwe ke "
+    illustrated-by: "Ditshwantsho di dirilwe ke "
+    designed-by: "E rulagantswe ke "
+    edited-by: "E tlhotlhilwe ke "
+    originally-in: "E simolotswe go kwalwa ka "
+    supported-by: "E tshegeditswe ke "
     download-pdf: "Go laisolola PDF"
     source-files: "Faele ya motswedi"
 # to:
