@@ -586,34 +586,34 @@ ss:
 # tl:
 #   iso-name: "Tagalog"
 #   local-name: ""
-# tn:
-#   iso-name: "Tswana"
-#   local-name: "Setswana"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "E kwadilwe ke "
-#     illustrated-by: "Ditshwantsho di dirilwe ke "
-#     designed-by: "E rulagantswe ke "
-#     edited-by: "E tlhotlhilwe ke "
-#     originally-in: "E simolotswe go kwalwa ka "
-#     supported-by: "E tshegeditswe ke "
-#     download-pdf: "Go laisolola PDF"
-#     source-files: "Faele ya motswedi"
+tn:
+  iso-name: "Tswana"
+  local-name: "Setswana"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "E kwadilwe ke "
+    illustrated-by: "Ditshwantsho di dirilwe ke "
+    designed-by: "E rulagantswe ke "
+    edited-by: "E tlhotlhilwe ke "
+    originally-in: "E simolotswe go kwalwa ka "
+    supported-by: "E tshegeditswe ke "
+    download-pdf: "Go laisolola PDF"
+    source-files: "Faele ya motswedi"
 # to:
 #   iso-name: "Tonga (Tonga Islands)"
 #   local-name: ""
@@ -715,34 +715,34 @@ ve:
 # fy:
 #   iso-name: "Western Frisian"
 #   local-name: ""
-# xh:
-#   iso-name: "Xhosa"
-#   local-name: "isiXhosa"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "Ibhalwe ngu"
-#     illustrated-by: "Umzekeliso ngu"
-#     designed-by: "Uyilo ngu"
-#     edited-by: "Ihlelwe ngu"
-#     originally-in: "Ekuqaleni ibibhalwe kwi"
-#     supported-by: "Ixhaswe ngu"
-#     download-pdf: "Khuphela iPDF"
-#     source-files: "Imvelaphi yeefayile"
+xh:
+  iso-name: "Xhosa"
+  local-name: "isiXhosa"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "Ibhalwe ngu"
+    illustrated-by: "Umzekeliso ngu"
+    designed-by: "Uyilo ngu"
+    edited-by: "Ihlelwe ngu"
+    originally-in: "Ekuqaleni ibibhalwe kwi"
+    supported-by: "Ixhaswe ngu"
+    download-pdf: "Khuphela iPDF"
+    source-files: "Imvelaphi yeefayile"
 # yi:
 #   iso-name: "Yiddish"
 #   local-name: ""
