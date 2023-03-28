@@ -494,34 +494,34 @@ en:
 # so:
 #   iso-name: "Somali"
 #   local-name: ""
-# st:
-#   iso-name: "Southern Sotho"
-#   local-name: "Sesotho"
-#   contact:
-#     label:
-#       email: "Email address"
-#       message: "Message"
-#       name: "Name"
-#     placeholder:
-#       email: "you@example.com"
-#       message: "Message"
-#       name: "Name"
-#   excerpt:
-#     more: "More"
-#   footer:
-#     credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
-#   input:
-#     send: "Send"
-#     submit: "Submit"
-#   book:
-#     written-by: "E ngotswe ke "
-#     illustrated-by: "E tshwantshitswe ke "
-#     designed-by: "E entswe ke "
-#     edited-by: "E hlophisitswe ke "
-#     originally-in: "E ngotswe qalong ka "
-#     supported-by: "E tsheheditswe ke "
-#     download-pdf: "Kgwasolla PDF"
-#     source-files: "Faele ya mohlodi"
+st:
+  iso-name: "Southern Sotho"
+  local-name: "Sesotho"
+  contact:
+    label:
+      email: "Email address"
+      message: "Message"
+      name: "Name"
+    placeholder:
+      email: "you@example.com"
+      message: "Message"
+      name: "Name"
+  excerpt:
+    more: "More"
+  footer:
+    credit: "Mother reading to child image from *Graca's Dream* by Karlien de Villiers, Marike le Roux and Melissa Fagan"
+  input:
+    send: "Send"
+    submit: "Submit"
+  book:
+    written-by: "E ngotswe ke "
+    illustrated-by: "E tshwantshitswe ke "
+    designed-by: "E entswe ke "
+    edited-by: "E hlophisitswe ke "
+    originally-in: "E ngotswe qalong ka "
+    supported-by: "E tsheheditswe ke "
+    download-pdf: "Kgwasolla PDF "
+    source-files: "Faele ya mohlodi "
 # es:
 #   iso-name: "Spanish"
 #   local-name: "Español"
