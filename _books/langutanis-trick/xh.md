@@ -16,7 +16,7 @@ price:
   en: ""
 links:
   source-files: "https://www.dropbox.com/sh/lzc7105h35iww2i/AAAAVTHcDGDCDb-2PQaixv-_a?dl=0"
-  pdf-ebook: "https://www.dropbox.com/s/66cvgo74j6vk8vp/langutanis-trick_xh_20230313.pdf?dl=0"
+  pdf-ebook: "https://www.dropbox.com/s/6u92dojlzr8ntph/langutanis-trick_xh_20230413.pdf?dl=0"
 images:
   cover: "langutanis-trick_xh_20230413_cover.jpg"
   title-page: "langutanis-trick_interior_xh_20230413_page1.jpg"
