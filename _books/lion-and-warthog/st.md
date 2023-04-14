@@ -16,9 +16,9 @@ price:
   en: ""
 links:
   source-files: "https://www.dropbox.com/sh/bejmhd5hiola9wh/AAC8UJoXf-trqTSCzqBUErsza?dl=0"
-  pdf-ebook: "https://www.dropbox.com/s/mdz7bs31xdethcr/lion-and-warthog_st_20230310.pdf?dl=0"
+  pdf-ebook: "https://www.dropbox.com/s/t1yqk2jtood2f0v/lion-and-warthog_st_20230414.pdf?dl=0"
 images:
-  cover: "lion-and-warthog_st_20230310_cover.jpg"
+  cover: "lion-and-warthog_st_20230414_cover.jpg"
   title-page: "lion-and-warthog_interior_st_20230310_page1.jpg"
   dps-1: "lion-and-warthog_interior_st_20230310_page2.jpg"
   dps-2: "lion-and-warthog_interior_st_20230310_page3.jpg"
