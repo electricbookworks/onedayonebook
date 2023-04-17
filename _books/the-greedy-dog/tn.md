@@ -2,7 +2,7 @@
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
 title: "Ntšwa e e megagaru"
-description: "Ntša e rata tsala ya yona Katse, fela e rata go ja thata. Katse e tla itshokela tsala ya gagwe e e megagaru go fi tlha leng pele sengwe se se phoso se diragala?"
+description: "Ntšwa e rata tsala ya yona Katse, fela e rata go ja thata. Katse e tla itshokela tsala ya gagwe e e megagaru go fi tlha leng pele sengwe se se phoso se diragala?"
 contributors:
   writer: "Nokuthula Ndlovu"
   illustrator: "Cclaire Ingram"

@@ -2,7 +2,7 @@
 # Only fill in page metadata here.
 # The page content is auto-filled from it.
 title: "Torofeiye e e bodutu"
-description: "Ga go na setlhare se se batlang go tshameka le toro feiye. A se tla fi tlhela tsala?"
+description: "Ga go na setlhare se se batlang go tshameka le torofeiye. A se tla fi tlhela tsala?"
 contributors:
   writer: "Nghamula Maluleke"
   illustrator: "Subi Bosa"
