@@ -6,11 +6,14 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - name: Setup and show EB commands
 
-    # We use a custom NPM cache to avoid Docker cache issues
+  # https://www.gitpod.io/docs/introduction/languages/ruby#faqs
+  - name: Install Ruby gems
+    before: bundle install
+
+  - name: Install Node modules and show EB commands
     init: |
-      npm install --cache="/home/gitpod/.npm/CustomCacheDir"
+      npm install
       npm run eb
 
 ports:
@@ -24,32 +27,3 @@ vscode:
   # in the browser, e.g. during page refinement.
   extensions:
     - yandeu.five-server
-
-github:
-
-  # Tells Gitpod to build workspaces automatically
-  # when these events happen, so that they open quickly.
-  prebuilds:
-
-    # Enable for the default branch (defaults to true)
-    master: true
-
-    # Enable for all branches in this repo (defaults to false)
-    branches: true
-
-    # Enable for pull requests coming from this repo (defaults to true)
-    pullRequests: true
-
-    # Enable for pull requests coming from forks (defaults to false)
-    pullRequestsFromForks: true
-
-    # Add a check to pull requests (defaults to true)
-    addCheck: true
-
-    # Add a "Review in Gitpod" button as a comment
-    # to pull requests (defaults to false)
-    addComment: false
-
-    # Add a "Review in Gitpod" button to the pull request's
-    # description (defaults to false)
-    addBadge: false
