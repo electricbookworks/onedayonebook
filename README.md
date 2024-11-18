@@ -4,7 +4,7 @@ This site is built with [Jekyll](https://jekyllrb.com). Follow the installation 
 
 ## Building the live website
 
-This project can be set up to use GitHub Pages as its live web host. This means that any changes committed to the master branch of this repository will be built into the live site immediately.
+This project is set up to use GitHub Pages as its live web host. This means that any changes committed to the **live** branch of this repository will be built into the live site immediately.
 
 If this changes in future, and you want to build HTML to place manually on a server:
 
