@@ -1,0 +1,35 @@
+---
+# This file is processed by Jekyll to build a sitemap.
+# layout: null stops the default layout wrapping the XML output.
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- comment -%}
+  Use the site URL from _data/settings.yml as the base for every <loc>.
+{%- endcomment -%}
+{%- assign site_url = site.data.settings.url -%}
+{%- comment -%}
+  Root pages: site.html_pages is every page Jekyll renders to HTML
+  (index.md, about.md, books.md, faq.md, terms.md, etc.).
+  Skip any page that opts out with `sitemap: false` in its front matter,
+  which also excludes this sitemap file itself.
+{%- endcomment -%}
+{%- for page in site.html_pages -%}
+  {%- unless page.sitemap == false -%}
+  <url>
+    <loc>{{ site_url }}{{ page.url }}</loc>
+  </url>
+  {%- endunless -%}
+{%- endfor -%}
+{%- comment -%}
+  Book pages: each file in _books (one per language) is a document in
+  the `books` collection, so this loop covers every language edition.
+{%- endcomment -%}
+{%- for book in site.books -%}
+  <url>
+    <loc>{{ site_url }}{{ book.url }}</loc>
+  </url>
+{%- endfor %}
+</urlset>
