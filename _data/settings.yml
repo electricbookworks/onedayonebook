@@ -28,7 +28,7 @@ image: "poster.jpg"
 logo: "reading.png"
 
 # The final, canonical address of your live site
-url: "http://onedayonebook.org"
+url: "https://onedayonebook.org"
 
 # Your Google Analytics ID, if you're using Google Analytics
 google-analytics-id: "UA-130213921-1"
